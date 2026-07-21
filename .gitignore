@@ -1,0 +1,22 @@
+.venv/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+
+# Generated logs and analysis output
+data/
+artifacts/
+benchmark_results/
+*.log
+
+# Editor and operating-system files
+.DS_Store
+.idea/
+.vscode/
